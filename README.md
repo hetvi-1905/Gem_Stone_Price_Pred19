@@ -1,3 +1,2 @@
-# Gemstone Price Prediction - Utkarsh Gaikwad
-
+# Gemstone Price Prediction
 
